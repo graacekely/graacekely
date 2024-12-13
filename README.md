@@ -61,8 +61,8 @@ Meu objetivo é me tornar uma grande analista e, assim como fui inspirada, poder
 />
 <img 
     align="left" 
-    alt="Power BI" 
-    title="Power BI"
+    alt="Excel" 
+    title="Excel"
     width="30px" 
     style="padding-right: 20px;" 
     src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" 
