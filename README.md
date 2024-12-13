@@ -82,11 +82,5 @@ Meu objetivo é me tornar uma grande analista e, assim como fui inspirada, poder
     src="https://github-readme-stats.vercel.app/api?username=graacekely&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=graacekely&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
 </p>
