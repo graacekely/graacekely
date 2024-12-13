@@ -1,16 +1,92 @@
-## Hi there 👋
+# 💫 Oi, sou Grace Kely 💫
 
-<!--
-**graacekely/graacekely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **`Estudante e futura Analista de Dados`**
 
-Here are some ideas to get you started:
+#### Um pouquinho sobre mim: ###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho 28 anos e moro em São Bernado do Campo - SP com meu marido e melhor amigo e uma coelhinha valente (ou nem tanto) 👩🏻 👨🏻🐇
+
+Depois de muitas idas e vindas e tentar me encontrar em uma profissão finalmente me encontrei 🎓
+
+Atualmente, estou cursando Banco de Dados pela Universidade Metodista de São Paulo, além de realizar cursos complementares que me ajudam a evoluir cada vez mais.
+
+Este mundo ainda é muito novo para mim, mas estou determinada a aprender e aprimorar meus conhecimentos. 
+
+Meu objetivo é me tornar uma grande analista e, assim como fui inspirada, poder inspirar outras pessoas a seguirem seus sonhos. 🚀
+
+---
+### 👩🏻‍💻 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="VSCode" 
+    title="VSCode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 20px;" 
+    src="https://img.icons8.com/color/48/000000/power-bi.png"
+/>
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 20px;" 
+    src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" 
+/>
+
+<br/>
+<br/>
+
+### 📈 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=graacekely&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=graacekely&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
