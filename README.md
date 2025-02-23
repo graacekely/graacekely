@@ -8,7 +8,7 @@ Tenho 28 anos e moro em São Bernado do Campo - SP com meu marido e melhor amigo
 
 Depois de muitas idas e vindas e tentar me encontrar em uma profissão finalmente me encontrei 🎓
 
-Atualmente, estou cursando Banco de Dados pela Universidade Metodista de São Paulo, além de realizar cursos complementares que me ajudam a evoluir cada vez mais.
+Atualmente, estou cursando de Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Metodista de São Paulo, além de realizar cursos complementares que me ajudam a evoluir cada vez mais.
 
 Este mundo ainda é muito novo para mim, mas estou determinada a aprender e aprimorar meus conhecimentos. 
 
